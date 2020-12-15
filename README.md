@@ -1,6 +1,9 @@
-# awesome-web-tools
-An awesome list of web tools &amp; utils from around the internet
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+# Awesome Web Tools
+An awesome list of web tools &amp; utils from around the internet.
+
+[Sortable Version](https://www.notion.so/alexchiu/129af2d96a3047c8bdf88f9a0b2c5a37?v=416d54da7e8840bcbdc094d0b26762f5) 🚧WIP🚧
 
 [Shrink Me - Compress JPG, PNG, WEBP, and SVG Images](https://shrinkme.app/)
 
