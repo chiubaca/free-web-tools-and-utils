@@ -2,10 +2,6 @@
 An awesome list of web tools &amp; utils from around the internet
 
 
-### Web Tools
-
-
-
 [Shrink Me - Compress JPG, PNG, WEBP, and SVG Images](https://shrinkme.app/)
 
 [Tomato Timer](https://tomato-timer.com/)
