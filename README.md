@@ -1,9 +1,16 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 # Awesome Web Tools
-An awesome list of web tools &amp; utils from around the internet.
+An awesome list of web tools &amp; utils from around the internet which I have found useful. Yes there are probably other awesome repos similar to this. Most similar is probably [Awesome PWA](https://github.com/hemanth/awesome-pwa).
 
-[Sortable Version](https://www.notion.so/alexchiu/129af2d96a3047c8bdf88f9a0b2c5a37?v=416d54da7e8840bcbdc094d0b26762f5) 🚧WIP🚧
+The scope of this Awesome repo is wider that PWA and can include SPA's and any sites which provide a useful utlity. 
+
+- [Sortable Notion Version](https://www.notion.so/alexchiu/129af2d96a3047c8bdf88f9a0b2c5a37?v=416d54da7e8840bcbdc094d0b26762f5) 🚧WIP🚧
+
+# Misc
+[Poolside FM](https://poolside.fm/)
+
+# Utils
 
 [Shrink Me - Compress JPG, PNG, WEBP, and SVG Images](https://shrinkme.app/)
 
@@ -12,10 +19,6 @@ An awesome list of web tools &amp; utils from around the internet.
 [Photopea | Online Photo Editor](https://www.photopea.com/?ref=producthunt)
 
 [Coggle- Flow Diagrams](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
-
-[Poolside FM](https://poolside.fm/)
-
-[Devhints — TL;DR for developer documentation](https://devhints.io/)
 
 [Flowcharts | Diagrams Software](https://www.draw.io/)
 
@@ -27,17 +30,11 @@ An awesome list of web tools &amp; utils from around the internet.
 
 [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
 
-[PWABuilder](https://www.pwabuilder.com/features)
-
 [JavaScript Array Explorer](https://sdras.github.io/array-explorer/)
 
 [DevDocs API Documentation](http://devdocs.io/)
 
 [gifski — highest-quality GIF converter](https://gif.ski/)
-
-[Roam Research – A note taking tool for networked thought.](https://roamresearch.com/#/app/Chiubaca-Notes)
-
-[1loc | Favorite JavaScript single line of code](https://1loc.dev/)
 
 [Screen Recorder | Free, Private, No Ads](https://screenrecorderapp.com/)
 
@@ -51,11 +48,7 @@ An awesome list of web tools &amp; utils from around the internet.
 
 [404 Illustrations](https://error404.fun/?ref=producthunt)
 
-[Drop-in Minimal CSS](https://dohliam.github.io/dropin-minimal-css/#text)
-
 [Postwoman • A free, fast and beautiful API request builder](https://postwoman.io/)
-
-[boxShadows | CSS box-shadow editor & quick presets](https://boxshadows.com/presets?utm_source=dev.to&utm_medium=post&utm_campaign=intro_post_rheaditi)
 
 [Fontjoy - Generate font pairings in one click](https://fontjoy.com/)
 
@@ -77,17 +70,9 @@ An awesome list of web tools &amp; utils from around the internet.
 
 [Hemingway Editor](http://hemingwayapp.com/)
 
-[WinGetIt.com - Windows Package Manager application stack builder](https://wingetit.com/)
-
 [Animate | Keyframes.app](https://keyframes.app/animate/)
 
-[PWABuilder](https://www.pwabuilder.com/)
-
-[Tabler Icons - 550+ Highly customizable free SVG icons](https://tablericons.com/)
-
 [Squircley | SVG Squircle Maker](https://squircley.app/)
-
-[Icônes](https://icones.netlify.app/)
 
 [x-spreadsheet](https://myliang.github.io/x-spreadsheet/)
 
@@ -98,8 +83,6 @@ An awesome list of web tools &amp; utils from around the internet.
 [agrinman/tunnelto at producthunt](https://github.com/agrinman/tunnelto?ref=producthunt)
 
 [Introduction - Halfmoon](https://www.gethalfmoon.com/docs/introduction/)
-
-[Heroicons](https://heroicons.dev/)
 
 [border-radius playground](https://culr.netlify.app/)
 
@@ -125,3 +108,9 @@ An awesome list of web tools &amp; utils from around the internet.
 
 [Quick, Font!](https://quickfont.xyz/)
 
+# Icons
+[Icônes](https://icones.netlify.app/)
+
+[Tabler Icons - 550+ Highly customizable free SVG icons](https://tablericons.com/)
+
+[Heroicons](https://heroicons.dev/)
