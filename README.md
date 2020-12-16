@@ -80,10 +80,6 @@ The scope of this Awesome repo is wider than just PWA's and include any useful f
 
 [json formatter live / minimalist editor, formatter and minifier](https://jsonformatter.live/)
 
-[Helpful and Useful Free Online Tools - useful.tools](https://useful.tools/)
-
-[Text Faces - Text based emoji directory (ᵔᴥᵔ)](https://fancytextdecorator.com/text-faces)
-
 [Demo — Blocks UI](https://blocks-ui.com/demo)
 
 # Fonts
@@ -114,4 +110,8 @@ The scope of this Awesome repo is wider than just PWA's and include any useful f
 
 [Hemingway Editor](http://hemingwayapp.com/)
 
-https://tuner-online.com/
+[Helpful and Useful Free Online Tools - useful.tools](https://useful.tools/)
+
+[Text Faces - Text based emoji directory (ᵔᴥᵔ)](https://fancytextdecorator.com/text-faces)
+
+[Tuner Online](https://tuner-online.com/)
