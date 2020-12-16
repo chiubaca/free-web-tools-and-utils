@@ -1,6 +1,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# Awesome Web Tools
+# Awesome Free Web Tools
 An awesome list of free web tools &amp; utils from around the internet which I have found useful. Yes there are probably other awesome repos similar to this. Most similar is probably [Awesome PWA](https://github.com/hemanth/awesome-pwa).
 
 The scope of this Awesome repo is wider than just PWA's and include any useful free web-based utility or tool.
