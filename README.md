@@ -3,7 +3,7 @@
 # Awesome Web Tools
 An awesome list of free web tools &amp; utils from around the internet which I have found useful. Yes there are probably other awesome repos similar to this. Most similar is probably [Awesome PWA](https://github.com/hemanth/awesome-pwa).
 
-The scope of this Awesome repo is wider than just PWA's and can basically include any useful web-based utlity. 
+The scope of this Awesome repo is wider than just PWA's and include any useful free web-based utility or tool.
 
 - [Sortable Notion Version](https://www.notion.so/alexchiu/129af2d96a3047c8bdf88f9a0b2c5a37?v=416d54da7e8840bcbdc094d0b26762f5) 🚧WIP🚧
 
