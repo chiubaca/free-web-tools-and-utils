@@ -78,8 +78,6 @@ The scope of this Awesome repo is wider than just PWA's and include any useful f
 
 [Animate | Keyframes.app](https://keyframes.app/animate/)
 
-[Landr - Create Landing Page Websites In Seconds](https://landr.page/templates/)
-
 [json formatter live / minimalist editor, formatter and minifier](https://jsonformatter.live/)
 
 [Demo — Blocks UI](https://blocks-ui.com/demo)
