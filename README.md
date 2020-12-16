@@ -3,30 +3,48 @@
 # Awesome Web Tools
 An awesome list of web tools &amp; utils from around the internet which I have found useful. Yes there are probably other awesome repos similar to this. Most similar is probably [Awesome PWA](https://github.com/hemanth/awesome-pwa).
 
-The scope of this Awesome repo is wider that PWA and can include SPA's and any sites which provide a useful utlity. 
+The scope of this Awesome repo is wider than just PWA's and can basically include any useful web-based utlity. 
 
 - [Sortable Notion Version](https://www.notion.so/alexchiu/129af2d96a3047c8bdf88f9a0b2c5a37?v=416d54da7e8840bcbdc094d0b26762f5) 🚧WIP🚧
 
-# Misc
-[Poolside FM](https://poolside.fm/)
+# Design
 
-# Utils
+[Colorsinspo - All in one resource for finding everything about colors | Colorsinspo](https://colorsinspo.com/)
 
-[Shrink Me - Compress JPG, PNG, WEBP, and SVG Images](https://shrinkme.app/)
+[Seamless Pattern Maker - Create Unlimited Seamless Patterns For Free](https://patternico.com/)
 
-[Tomato Timer](https://tomato-timer.com/)
+[Create a palette - Coolors](https://coolors.co/272727-2b50aa-ff9fe5-ffd4d4-ff858d)
 
-[Photopea | Online Photo Editor](https://www.photopea.com/?ref=producthunt)
+[Avataaars Generator - A free online avatar generator for anyone to make their beautiful personal avatar easily!](https://getavataaars.com/?accessoriesType=Blank&avatarStyle=Circle&clotheColor=Blue02&clotheType=ShirtVNeck&eyeType=Side&eyebrowType=RaisedExcited&hairColor=Black&mouthType=Tongue&skinColor=Tanned&topType=ShortHairShortFlat)
+
+# Diagrams
 
 [Coggle- Flow Diagrams](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
 
 [Flowcharts | Diagrams Software](https://www.draw.io/)
 
+[Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://excalidraw.com/)
+
+
+# Graphics
+
+[Shrink Me - Compress JPG, PNG, WEBP, and SVG Images](https://shrinkme.app/)
+
+[Photopea | Online Photo Editor](https://www.photopea.com/?ref=producthunt)
 [Squoosh](https://squoosh.app/)
+[gifski — highest-quality GIF converter](https://gif.ski/)
 
-[Colorsinspo - All in one resource for finding everything about colors | Colorsinspo](https://colorsinspo.com/)
+[SvgPathEditor](https://yqnn.github.io/svg-path-editor/)
 
-[iHateRegex - regex cheatsheet for haters](https://ihateregex.io/)
+[Free Favicon Maker — Create SVG & PNG favicon in seconds!](https://formito.com/tools/favicon)
+
+[google-font-to-svg-path](https://danmarshall.github.io/google-font-to-svg-path/)
+
+[Optimize animated GIF - shia.gif](https://ezgif.com/optimize/ezgif-7-a535b1acad94.gif)
+
+[Create Customizable, Hi-Def, and Scalable Backgrounds](https://www.svgbackgrounds.com/#polka-dots)
+
+# Programming
 
 [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
 
@@ -34,69 +52,31 @@ The scope of this Awesome repo is wider that PWA and can include SPA's and any s
 
 [DevDocs API Documentation](http://devdocs.io/)
 
-[gifski — highest-quality GIF converter](https://gif.ski/)
+[border-radius playground](https://culr.netlify.app/)
 
-[Screen Recorder | Free, Private, No Ads](https://screenrecorderapp.com/)
+[Operator Lookup - Search JavaScript operators · Josh W Comeau](https://joshwcomeau.com/operator-lookup/)
+
+[iHateRegex - regex cheatsheet for haters](https://ihateregex.io/)
+
+[Squircley | SVG Squircle Maker](https://squircley.app/)
 
 [Convert cURL command syntax to Python requests, Ansible URI, MATLAB, Node.js, R, PHP, Strest, Go, Dart, JSON, Elixir, and Rust code](https://curl.trillworks.com/#node)
 
-[hero-generator](https://hero-generator.netlify.app/)
-
 [Helper Functions | The Vanilla JS Toolkit](https://vanillajstoolkit.com/helpers/)
 
-[All Collections on Blush](https://blush.design/collections)
+[hero-generator](https://hero-generator.netlify.app/)
 
 [404 Illustrations](https://error404.fun/?ref=producthunt)
 
 [Postwoman • A free, fast and beautiful API request builder](https://postwoman.io/)
 
-[Fontjoy - Generate font pairings in one click](https://fontjoy.com/)
-
-[FontPair - Helps you pair Google Fonts together](https://fontpair.co/#sansserif-sansserif)
-
-[Find the perfect font combination | Canva](https://www.canva.com/font-combinations/)
-
 [border-radius playground](https://codepen.io/jh3y/pen/XWmvwYg)
-
-[Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://excalidraw.com/)
 
 [json2ts - generate TypeScript interfaces from json](http://www.json2ts.com/)
 
-[Seamless Pattern Maker - Create Unlimited Seamless Patterns For Free](https://patternico.com/)
-
-[Create Customizable, Hi-Def, and Scalable Backgrounds](https://www.svgbackgrounds.com/#polka-dots)
-
-[Create a palette - Coolors](https://coolors.co/272727-2b50aa-ff9fe5-ffd4d4-ff858d)
-
-[Hemingway Editor](http://hemingwayapp.com/)
-
 [Animate | Keyframes.app](https://keyframes.app/animate/)
 
-[Squircley | SVG Squircle Maker](https://squircley.app/)
-
-[x-spreadsheet](https://myliang.github.io/x-spreadsheet/)
-
-[Avataaars Generator - A free online avatar generator for anyone to make their beautiful personal avatar easily!](https://getavataaars.com/?accessoriesType=Blank&avatarStyle=Circle&clotheColor=Blue02&clotheType=ShirtVNeck&eyeType=Side&eyebrowType=RaisedExcited&hairColor=Black&mouthType=Tongue&skinColor=Tanned&topType=ShortHairShortFlat)
-
 [Landr - Create Landing Page Websites In Seconds](https://landr.page/templates/)
-
-[agrinman/tunnelto at producthunt](https://github.com/agrinman/tunnelto?ref=producthunt)
-
-[Introduction - Halfmoon](https://www.gethalfmoon.com/docs/introduction/)
-
-[border-radius playground](https://culr.netlify.app/)
-
-[Optimize animated GIF - shia.gif](https://ezgif.com/optimize/ezgif-7-a535b1acad94.gif)
-
-[Tailwind Play](https://play.tailwindcss.com/)
-
-[SvgPathEditor](https://yqnn.github.io/svg-path-editor/)
-
-[Operator Lookup - Search JavaScript operators · Josh W Comeau](https://joshwcomeau.com/operator-lookup/)
-
-[Free Favicon Maker — Create SVG & PNG favicon in seconds!](https://formito.com/tools/favicon)
-
-[google-font-to-svg-path](https://danmarshall.github.io/google-font-to-svg-path/)
 
 [json formatter live / minimalist editor, formatter and minifier](https://jsonformatter.live/)
 
@@ -106,7 +86,15 @@ The scope of this Awesome repo is wider that PWA and can include SPA's and any s
 
 [Demo — Blocks UI](https://blocks-ui.com/demo)
 
+# Fonts
+
 [Quick, Font!](https://quickfont.xyz/)
+
+[Fontjoy - Generate font pairings in one click](https://fontjoy.com/)
+
+[FontPair - Helps you pair Google Fonts together](https://fontpair.co/#sansserif-sansserif)
+
+[Find the perfect font combination | Canva](https://www.canva.com/font-combinations/)
 
 # Icons
 [Icônes](https://icones.netlify.app/)
@@ -114,3 +102,15 @@ The scope of this Awesome repo is wider that PWA and can include SPA's and any s
 [Tabler Icons - 550+ Highly customizable free SVG icons](https://tablericons.com/)
 
 [Heroicons](https://heroicons.dev/)
+
+# Misc
+[Poolside FM](https://poolside.fm/)
+
+[Screen Recorder | Free, Private, No Ads](https://screenrecorderapp.com/)
+
+[Tomato Timer](https://tomato-timer.com/)
+
+[x-spreadsheet](https://myliang.github.io/x-spreadsheet/)
+
+[Hemingway Editor](http://hemingwayapp.com/)
+
