@@ -30,6 +30,8 @@ The scope of this Awesome repo is wider than just PWA's and include any useful f
 
 # Graphics
 
+[Figma](www.figma.com)
+
 [Shrink Me - Compress JPG, PNG, WEBP, and SVG Images](https://shrinkme.app/)
 
 [Photopea | Online Photo Editor](https://www.photopea.com/?ref=producthunt)
@@ -115,3 +117,5 @@ The scope of this Awesome repo is wider than just PWA's and include any useful f
 [Text Faces - Text based emoji directory (ᵔᴥᵔ)](https://fancytextdecorator.com/text-faces)
 
 [Tuner Online](https://tuner-online.com/)
+
+[Bubble Level](https://www.blocklayer.com/bubble-level.aspx)
