@@ -62,6 +62,8 @@ The scope of this Awesome repo is wider than just PWA's and include any useful f
 
 [Operator Lookup - Search JavaScript operators · Josh W Comeau](https://joshwcomeau.com/operator-lookup/)
 
+[RegExr](https://regexr.com/)
+
 [iHateRegex - regex cheatsheet for haters](https://ihateregex.io/)
 
 [Squircley | SVG Squircle Maker](https://squircley.app/)
