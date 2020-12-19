@@ -32,10 +32,12 @@ The scope of this Awesome repo is wider than just PWA's and include any useful f
 
 [Figma](www.figma.com)
 
+[Squoosh](https://squoosh.app/)
+
 [Shrink Me - Compress JPG, PNG, WEBP, and SVG Images](https://shrinkme.app/)
 
 [Photopea | Online Photo Editor](https://www.photopea.com/?ref=producthunt)
-[Squoosh](https://squoosh.app/)
+
 [gifski — highest-quality GIF converter](https://gif.ski/)
 
 [SvgPathEditor](https://yqnn.github.io/svg-path-editor/)
