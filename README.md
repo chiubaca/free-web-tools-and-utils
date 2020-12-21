@@ -10,7 +10,7 @@ The scope of this Awesome repo is wider than just PWA's and include any useful f
 
 
 
-- [Sortable Notion Version](https://www.notion.so/alexchiu/129af2d96a3047c8bdf88f9a0b2c5a37?v=416d54da7e8840bcbdc094d0b26762f5) 🚧WIP🚧
+- [Searchable and sortable Notion version](https://www.notion.so/alexchiu/129af2d96a3047c8bdf88f9a0b2c5a37?v=416d54da7e8840bcbdc094d0b26762f5) 🚧 WIP! 🚧
 
 # Design
 
