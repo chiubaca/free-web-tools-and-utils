@@ -1,5 +1,5 @@
 
-# 🙌 Free Web Tools & Utils
+# Free Web Tools & Utils 🙌
 
 A list of free web tools &amp; utils from around the internet which I have found useful. Yes there are probably other awesome repos similar to this such as [Awesome PWA](https://github.com/hemanth/awesome-pwa).
 
