@@ -1,16 +1,11 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# Awesome Free Web Tools
+# 🙌 Free Web Tools & Utils
 
-![is it an awesome web tool flow chart](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F45d658a6-8e0a-4aac-9bb5-6ed925585459%2FUntitled-2020-10-19-0838(1).png?table=collection&id=a0779e54-9a1f-4307-a458-a97789c8f0a3&width=3520&userId=1be09007-2744-4b5c-9fc9-abfbf96b0fdf&cache=v2)
+A list of free web tools &amp; utils from around the internet which I have found useful. Yes there are probably other awesome repos similar to this such as [Awesome PWA](https://github.com/hemanth/awesome-pwa).
 
-An awesome list of free web tools &amp; utils from around the internet which I have found useful. Yes there are probably other awesome repos similar to this such as [Awesome PWA](https://github.com/hemanth/awesome-pwa).
+The scope of this Awesome repo is wider than just PWA's and include any useful free web-based utility or tool. D
 
-The scope of this Awesome repo is wider than just PWA's and include any useful free web-based utility or tool. Do not confuse this repo with [Web Tools](https://github.com/lvwzhen/tools), which is a curated list specifically for front-end web development.
-
-
-
-- [Searchable and sortable Notion version](https://www.notion.so/alexchiu/129af2d96a3047c8bdf88f9a0b2c5a37?v=416d54da7e8840bcbdc094d0b26762f5) 🚧 WIP! 🚧
+- [Searchable and sortable Notion version](https://www.notion.so/alexchiu/129af2d96a3047c8bdf88f9a0b2c5a37?v=416d54da7e8840bcbdc094d0b26762f5)
 
 # Design
 
