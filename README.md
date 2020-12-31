@@ -1,7 +1,7 @@
 
 # Free Web Tools & Utils 🙌
 
-A list of free web tools &amp; utils from around the internet which I have found useful. Yes there are probably other awesome repos similar to this such as sw-yx's [Spark Joy](https://github.com/sw-yx/spark-joy), but this is mine ☺.
+A list of free web tools &amp; utils from around the internet which I have found useful. Yes there are probably other similar repos but this is mine ☺.
 
 - [Searchable and sortable Notion version](https://www.notion.so/alexchiu/129af2d96a3047c8bdf88f9a0b2c5a37?v=416d54da7e8840bcbdc094d0b26762f5)
 
