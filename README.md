@@ -84,6 +84,8 @@ A list of free web tools &amp; utils from around the internet which I have found
 
 [Demo — Blocks UI](https://blocks-ui.com/demo)
 
+[Omatsuri](https://omatsuri.app/)
+
 # Fonts
 
 [Quick, Font!](https://quickfont.xyz/)
