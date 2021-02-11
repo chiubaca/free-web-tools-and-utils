@@ -101,7 +101,9 @@ A list of free web tools &amp; utils from around the internet which I have found
 
 [Tabler Icons - 550+ Highly customizable free SVG icons](https://tablericons.com/)
 
-[Heroicons](https://heroicons.dev/)
+[Hero Icons](https://heroicons.dev/)
+
+[Akar Icons](https://akaricons.com/)
 
 # Misc
 [Poolside FM](https://poolside.fm/)
