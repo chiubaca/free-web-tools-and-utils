@@ -15,6 +15,8 @@ A list of free web tools &amp; utils from around the internet which I have found
 
 [Avataaars Generator - A free online avatar generator for anyone to make their beautiful personal avatar easily!](https://getavataaars.com/?accessoriesType=Blank&avatarStyle=Circle&clotheColor=Blue02&clotheType=ShirtVNeck&eyeType=Side&eyebrowType=RaisedExcited&hairColor=Black&mouthType=Tongue&skinColor=Tanned&topType=ShortHairShortFlat)
 
+[Colors UI - Colors UI is color tool website. It provides nice color palttes, solid ui colors, material colors,tint and shades of color and much more](https://colorsui.com/)
+
 # Diagrams
 
 [Coggle- Flow Diagrams](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
