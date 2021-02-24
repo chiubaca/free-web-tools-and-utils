@@ -17,6 +17,14 @@ A list of free web tools &amp; utils from around the internet which I have found
 
 [Colors UI - Colors UI is color tool website.](https://colorsui.com/)
 
+[Patternify](http://www.patternify.com/)
+
+[Pattern Generator](https://doodad.dev/pattern-generator/)
+
+[Hero Patterns](https://www.heropatterns.com/)
+
+[CSS Backgrounds](https://www.magicpattern.design/tools/css-backgrounds)
+
 # Diagrams
 
 [Coggle- Flow Diagrams](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
