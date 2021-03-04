@@ -58,6 +58,8 @@ A list of free web tools &amp; utils from around the internet which I have found
 
 [404 Illustrations](https://error404.fun/?ref=producthunt)
 
+[Sensa](https://sensa.co/emoji/)
+
 # Programming
 
 [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
