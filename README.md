@@ -25,6 +25,8 @@ A list of free web tools &amp; utils from around the internet which I have found
 
 [CSS Backgrounds](https://www.magicpattern.design/tools/css-backgrounds)
 
+[Open Color](https://yeun.github.io/open-color/)
+
 # Diagrams
 
 [Coggle- Flow Diagrams](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
