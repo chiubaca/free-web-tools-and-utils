@@ -100,6 +100,8 @@ A list of free web tools &amp; utils from around the internet which I have found
 
 [Omatsuri](https://omatsuri.app/)
 
+[Buttons Generator](https://markodenic.com/tools/buttons-generator/)
+
 # Fonts
 
 [Quick, Font!](https://quickfont.xyz/)
