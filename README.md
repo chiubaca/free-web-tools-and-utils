@@ -139,3 +139,6 @@ A list of free web tools &amp; utils from around the internet which I have found
 [Tuner Online](https://tuner-online.com/)
 
 [Bubble Level](https://www.blocklayer.com/bubble-level.aspx)
+
+- [DeviTools](https://devitools.com)
+
